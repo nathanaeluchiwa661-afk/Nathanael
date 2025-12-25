@@ -1,0 +1,9 @@
+{
+  "name": "Copy of AccessLingua SASU",
+  "description": "Plateforme d'excellence linguistique pour l'Afrique avec un modèle économique social et visionnaire.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
